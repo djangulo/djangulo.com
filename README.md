@@ -1,4 +1,3 @@
 # djangulo.com
 
-GatsbyJS source to [https://djangulo.com](https://djangulo.com).
-
+GatsbyJS source to <a href="#">https://djangulo.com</a> (not online yet).
